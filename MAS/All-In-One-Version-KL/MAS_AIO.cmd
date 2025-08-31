@@ -107,7 +107,7 @@ popd
 
 cls
 color 07
-title  Microsoft_Activation_Scripts - SITRAYAS. %masver%
+title  Microsoft_Activation_Scripts - SITRAYASTECH. %masver%
 
 set _args=
 set _elev=
